@@ -1,4 +1,6 @@
 # Snap-To-Terrain
+Документация на русском https://github.com/VladislavKovalenko/Snap-To-Terrain/blob/main/READMERUS.md
+
 Simple script for object terrain snapping
 
 Before
