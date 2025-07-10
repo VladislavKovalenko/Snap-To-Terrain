@@ -8,7 +8,7 @@ After
 ![B1P0ewgCzY3veShEtQ6-UisoGmYry2fCR-GNFlo-W-YYTls4tFb9trmhyxaUsC8PrZgYJI1mlwpGu_YFQDe-H_Yt](https://github.com/user-attachments/assets/dc093f7a-8441-43a9-a75f-721056eacf7c)
 
 ## Main Features
-<img width="326" height="260" alt="image" src="https://github.com/user-attachments/assets/688ff88d-f395-4263-8bb5-c2b70e10d7ce " />
+<img width="340" height="260" alt="image" src="https://github.com/user-attachments/assets/c44d538b-d5c1-42e1-a74d-ac6c3d0314e1" />
 
 1. Select a Terrain from the scene (via click or drag-and-drop).
 2. Highlight one object or a group of objects to align to the terrain.
