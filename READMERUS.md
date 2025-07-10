@@ -22,9 +22,11 @@ Centre (Pivot по центру) - если пивот посередине мо
 
 ## Установка и использование
 Скачайте и перетащите скрипт в свой проект, в папку Assets/Editor, если такой папки нет - создайте ее сами.
-Скрипт юзается по из меню Tools/MegxlordScene/Snap To Terrain
+Скрипт юзается из меню Tools/MegxlordScene/Snap To Terrain
+
 <img width="430" height="153" alt="image" src="https://github.com/user-attachments/assets/841e1bf7-590c-4700-8f64-109dd18151fa" />
 
 
 Можно изменять локализацию
+
 <img width="327" height="58" alt="image" src="https://github.com/user-attachments/assets/0db49e91-de94-4022-8901-559d9f54994a" />
