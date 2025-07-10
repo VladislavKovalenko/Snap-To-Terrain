@@ -15,8 +15,10 @@ After
 1. Select a Terrain from the scene (via click or drag-and-drop).
 2. Highlight one object or a group of objects to align to the terrain.
 3. Choose the desired mode:
-    Edge (Pivot at edge): Use if the pivot is correctly positioned at the model's edge.
-    Centre (Pivot at center): Use if the pivot is centered but you want edge alignment.
+
+   Edge (Pivot at edge): Use if the pivot is correctly positioned at the model's edge.
+
+   Centre (Pivot at center): Use if the pivot is centered but you want edge alignment.
 
 ## Features
 Supports multi-select – align multiple objects at once.
